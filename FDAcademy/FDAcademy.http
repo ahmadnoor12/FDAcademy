@@ -1,0 +1,6 @@
+@FDAcademy_HostAddress = http://localhost:5234
+
+GET {{FDAcademy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
