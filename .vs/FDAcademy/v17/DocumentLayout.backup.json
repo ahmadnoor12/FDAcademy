@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111203310_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructior\\Migrations\\20260111203310_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\enum\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enum\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111202510_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructior\\Migrations\\20260111202510_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\infrastructior\\migrations\\20260111202213_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|solutionrelative:infrastructior\\migrations\\20260111202213_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\infrastructior\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|solutionrelative:infrastructior\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\course\\courseupdetedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\course\\courseupdetedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\student\\studentfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\student\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\infrastructior\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|solutionrelative:infrastructior\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\repositoriesinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\repositoriesinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\infrastructior\\data\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,6 +75,18 @@
       "RelativeMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|solutionrelative:infrastructior\\data\\categoryseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\fdacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF785A2F-9D31-4FA1-964E-91DF2135832B}|FDAcademy\\FDAcademy.csproj|solutionrelative:fdacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\fdaconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\fdaconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\infrastructior\\context\\fdacademydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376613AB-E700-490F-AF55-35DD88F862EB}|Infrastructior\\Infrastructure.csproj|solutionrelative:infrastructior\\context\\fdacademydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,20 +95,12 @@
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\courseserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\fdaconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\fdaconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,24 +123,8 @@
       "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\domain\\entities\\enum\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C11CE9B-D5EB-4EBE-87BD-FE5E0BC05171}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\enum\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\interfaces\\icourseservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\icourseservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\repositoriesinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\repositoriesinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\services\\interfaces\\iadmin_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iadmin_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,16 +143,8 @@
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\student\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\student\\studentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\student\\studentfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\student\\studentfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\enrollment\\studentcoursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -173,10 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\course\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\course\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\course\\courseupdetedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\course\\courseupdetedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\course\\coursesdatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -203,10 +191,6 @@
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|c:\\users\\hp\\desktop\\project\\fdacademy\\application\\dtos\\auth\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3294BC05-AB67-4F6A-88DA-B77C47C0DEEA}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -218,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,72 +210,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260111203310_Initial_Create.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111203310_Initial_Create.cs",
-              "RelativeDocumentMoniker": "Infrastructior\\Migrations\\20260111203310_Initial_Create.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111203310_Initial_Create.cs",
-              "RelativeToolTip": "Infrastructior\\Migrations\\20260111203310_Initial_Create.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FDAcademy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:33:10.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "FDAcademy\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.Development.json*",
-              "RelativeToolTip": "FDAcademy\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T20:29:36.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.json",
-              "RelativeDocumentMoniker": "FDAcademy\\appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.json",
-              "RelativeToolTip": "FDAcademy\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T20:29:24.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260111202510_Create.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111202510_Create.cs",
-              "RelativeDocumentMoniker": "Infrastructior\\Migrations\\20260111202510_Create.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111202510_Create.cs",
-              "RelativeToolTip": "Infrastructior\\Migrations\\20260111202510_Create.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:25:10.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260111202213_InitCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111202213_InitCreate.cs",
-              "RelativeDocumentMoniker": "Infrastructior\\Migrations\\20260111202213_InitCreate.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Migrations\\20260111202213_InitCreate.cs",
-              "RelativeToolTip": "Infrastructior\\Migrations\\20260111202213_InitCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:22:15.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T10:09:18.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "FDAcademy\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:12:05.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:53:36.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\CategoryEnum.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enum\\CategoryEnum.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\CategoryEnum.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enum\\CategoryEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:36:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enum\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\RoleEnum.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enum\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:37:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:43:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:37:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "FDAcademy\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:11:11.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "FDAcademy\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:10:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "FDAcademy\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Program.cs",
+              "RelativeToolTip": "FDAcademy\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:41:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:22:35.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseUpdeteDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseUpdeteDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CourseUpdeteDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseUpdeteDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Course\\CourseUpdeteDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:27:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentFilterDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Student\\StudentFilterDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentFilterDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Student\\StudentFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:33:10.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentregistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentregistrationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Student\\StudentregistrationDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentregistrationDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Student\\StudentregistrationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:34:44.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructior\\Repositories\\GenericRepository.cs",
@@ -303,80 +391,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "FDAcademy\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\RepositoriesInterface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Application\\RepositoriesInterface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\RepositoriesInterface\\IGenericRepository.cs",
+              "RelativeToolTip": "Application\\RepositoriesInterface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T10:09:18.334Z"
+              "WhenOpened": "2026-01-11T06:36:31.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "FDAcademy\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T10:10:12.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "FDAcademy\\Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T10:11:11.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "FDAcademy\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "FDAcademy\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T10:12:05.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\RefreshToken.cs",
-              "RelativeToolTip": "Domain\\Entities\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:53:36.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "UserSeedData.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Data\\UserSeedData.cs",
               "RelativeDocumentMoniker": "Infrastructior\\Data\\UserSeedData.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Data\\UserSeedData.cs",
               "RelativeToolTip": "Infrastructior\\Data\\UserSeedData.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T10:02:40.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "CategorySeedData.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Data\\CategorySeedData.cs",
               "RelativeDocumentMoniker": "Infrastructior\\Data\\CategorySeedData.cs",
@@ -388,75 +427,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FDAcademyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Context\\FDAcademyDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructior\\Context\\FDAcademyDbContext.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Context\\FDAcademyDbContext.cs",
-              "RelativeToolTip": "Infrastructior\\Context\\FDAcademyDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:50:43.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CourseSerivce.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\CourseSerivce.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\CourseSerivce.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\CourseSerivce.cs",
-              "RelativeToolTip": "Application\\Services\\CourseSerivce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:38:12.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:37:29.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Program.cs",
-              "RelativeDocumentMoniker": "FDAcademy\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\Program.cs",
-              "RelativeToolTip": "FDAcademy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:41:51.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\StudentService.cs",
-              "RelativeToolTip": "Application\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:39:30.584Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "EnrollmentService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\EnrollmentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\EnrollmentService.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\EnrollmentService.cs",
-              "RelativeToolTip": "Application\\Services\\EnrollmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:38:55.196Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.json",
+              "RelativeDocumentMoniker": "FDAcademy\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\FDAcademy\\appsettings.json",
+              "RelativeToolTip": "FDAcademy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T20:29:24.248Z"
             },
             {
               "$type": "Document",
@@ -473,66 +452,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:35:08.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:33:35.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Role.cs",
-              "RelativeToolTip": "Domain\\Entities\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:54:14.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enrollment.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Enrollment.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enrollment.cs",
-              "RelativeToolTip": "Domain\\Entities\\Enrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:52:58.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Course.cs",
-              "RelativeToolTip": "Domain\\Entities\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:51:26.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
@@ -544,31 +463,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RoleEnum.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\RoleEnum.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Enum\\RoleEnum.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\RoleEnum.cs",
-              "RelativeToolTip": "Domain\\Entities\\Enum\\RoleEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "FDAcademyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Context\\FDAcademyDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructior\\Context\\FDAcademyDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Infrastructior\\Context\\FDAcademyDbContext.cs",
+              "RelativeToolTip": "Infrastructior\\Context\\FDAcademyDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:37:14.832Z"
+              "WhenOpened": "2026-01-11T09:50:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseSerivce.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\CourseSerivce.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CourseSerivce.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\CourseSerivce.cs",
+              "RelativeToolTip": "Application\\Services\\CourseSerivce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:38:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:39:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "Application\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:38:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:35:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:33:35.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "CategoryEnum.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\CategoryEnum.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Enum\\CategoryEnum.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enum\\CategoryEnum.cs",
-              "RelativeToolTip": "Domain\\Entities\\Enum\\CategoryEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T09:36:29.5Z"
+              "WhenOpened": "2026-01-11T06:54:14.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:52:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:51:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "ICourseServicecs.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\ICourseServicecs.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\ICourseServicecs.cs",
@@ -580,19 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\RepositoriesInterface\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Application\\RepositoriesInterface\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\RepositoriesInterface\\IGenericRepository.cs",
-              "RelativeToolTip": "Application\\RepositoriesInterface\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:36:31.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IStudentService.cs",
@@ -604,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IEnrollmentService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IEnrollmentService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IEnrollmentService.cs",
@@ -613,18 +604,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T06:41:05.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:43:14.554Z"
             },
             {
               "$type": "Document",
@@ -653,18 +632,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "StudentregistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentregistrationDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\Student\\StudentregistrationDto.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentregistrationDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\Student\\StudentregistrationDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:34:44.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
               "Title": "StudentListDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentListDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Student\\StudentListDto.cs",
@@ -676,19 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "StudentFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentFilterDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\Student\\StudentFilterDto.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Student\\StudentFilterDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\Student\\StudentFilterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:33:10.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "StudentCoursesDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Enrollment\\StudentCoursesDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Enrollment\\StudentCoursesDto.cs",
@@ -700,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "EnrollmentDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Enrollment\\EnrollmentDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Enrollment\\EnrollmentDto.cs",
@@ -712,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "CourseStudentsDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Enrollment\\CourseStudentsDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Enrollment\\CourseStudentsDto.cs",
@@ -724,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "UserCoursesFilterDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\UserCoursesFilterDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\UserCoursesFilterDto.cs",
@@ -736,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "CreateCourseDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CreateCourseDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CreateCourseDto.cs",
@@ -748,19 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "CourseUpdeteDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseUpdeteDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CourseUpdeteDto.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseUpdeteDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\Course\\CourseUpdeteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:27:13.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 41,
               "Title": "CoursesDataTable.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CoursesDataTable.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CoursesDataTable.cs",
@@ -772,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 42,
               "Title": "CourseListDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseListDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CourseListDto.cs",
@@ -784,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 43,
               "Title": "CourseFilterDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CourseFilterDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CourseFilterDto.cs",
@@ -796,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "CategoryList.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Course\\CategoryList.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Course\\CategoryList.cs",
@@ -808,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "ResetPasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\ResetPasswordDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Auth\\ResetPasswordDto.cs",
@@ -820,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 46,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Auth\\LoginResponseDto.cs",
@@ -832,19 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\Auth\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\LoginRequestDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\Auth\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T06:22:35.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 47,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Project\\FDAcademy\\Application\\Dtos\\Auth\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "Application\\Dtos\\Auth\\ChangePasswordDto.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FDAcademy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905c7d91244f121d8eb6383cc8b036c7d9a74053")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e17e9c824f50b343b63da3c0eb6480f4cc076fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("FDAcademy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FDAcademy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
